@@ -1,0 +1,27 @@
+{
+    "name": "com.soggyinkgames.package-soggyvfxui",
+    "version": "1.1.1",
+    "displayName": "Soggy UI Visual Effects",
+    "description": "a package of particle ui",
+    "unity": "2023.2",
+    "dependencies": {
+        "com.unity.visualeffectgraph": "16.0.5",
+        "com.unity.render-pipelines.universal": "16.0.5",
+        "com.unity.textmeshpro": "3.0.6"
+    },
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "author": {
+        "name": "SOGGY INK GAMES",
+        "email": "soggyinkgames@gmail.com",
+        "url": "https://www.soggyinkgames.com"
+    },
+    "samples": [
+            {
+            "displayName": "Sample Soggy UI Buttons",
+            "description": "a package of ui particle effects built by soggy ink games",
+            "path": "Samples~/SampleSoggyUIButtons"
+            }
+        ]
+    }
