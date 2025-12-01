@@ -19,9 +19,14 @@
     },
     "samples": [
         {
-            "displayName": "Sample Soggy UI Buttons",
-            "description": "a package of ui particle effects built by soggy ink games",
+            "displayName": "Sample Soggy UI ALL Buttons",
+            "description": "a package of ui ALL particle button effects built by soggy ink games",
             "path": "Samples~/SampleSoggyUIButtons"
+        },
+        {
+            "displayName": "Sample Soggy Space Scene",
+            "description": "a package of a empty space scene by soggy ink games",
+            "path": "Samples~/SampleSoggySpaceScene"
         }
     ]
 }
