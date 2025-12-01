@@ -1,6 +1,6 @@
 {
     "name": "com.soggyinkgames.package-soggyvfxui",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "displayName": "Soggy UI Visual Effects",
     "description": "a package of particle ui",
     "unity": "2023.2",

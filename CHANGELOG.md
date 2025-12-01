@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/soggyinkgames/package-soggyvfxui/compare/v1.0.1...v1.1.0) (2025-12-01)
+
+
+### Features
+
+* **sample:** add empty space scene with plane ([286d5b5](https://github.com/soggyinkgames/package-soggyvfxui/commit/286d5b585628958bd7416d6af442e59d5d64fa97))
+
 ## [1.0.1](https://github.com/soggyinkgames/package-soggyvfxui/compare/v1.0.0...v1.0.1) (2025-04-30)
 
 
